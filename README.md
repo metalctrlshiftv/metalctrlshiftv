@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <img height="20" src="https://files.catbox.moe/ydijhj.jpg"  />
+</div>
 
-<!--
-**metalctrlshiftv/metalctrlshiftv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">whisper to int !</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="200" src="https://files.catbox.moe/du3j2q.png"  />
+</div>
+
+###
+
+<p align="center">usually with friends but feel free to interact with me if you want !</p>
+
+###
+
+<div align="center">
+  <img height="20" src="https://files.catbox.moe/ydijhj.jpg"  />
+</div>
+
+###
+
+<p align="center">check my rentry out</p>
