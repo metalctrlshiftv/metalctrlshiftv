@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">usually with friends but feel free to interact with me if you want !</p>
+<p align="center">usually with friends but feel free to interact with me if you want ! unless if i state that i do not want to be interacted with</p>
 
 ###
 
