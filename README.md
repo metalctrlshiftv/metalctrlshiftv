@@ -23,5 +23,3 @@
 </div>
 
 ###
-
-<p align="center">check my rentry out</p>
